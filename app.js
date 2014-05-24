@@ -42,6 +42,16 @@ app.get('/', function(req,res){
    });
 });
 
+app.post('/near',function(req,res){
+  mongo.Db.connect(mongoUri, function (err, db) {
+    db.collection('bims', function(er, collection) {
+      collection.find({loc: {$near: [req.param('llat'),req.param('llong')], $maxDistance: 500}}).toArray(function(err,data) { 
+            res.json(data); 
+      }); 
+    });
+  });
+});
+
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log("Listening on port " + app.get('port'));
