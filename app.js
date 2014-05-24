@@ -45,7 +45,7 @@ app.get('/', function(req,res){
 app.post('/near',function(req,res){
   mongo.Db.connect(mongoUri, function (err, db) {
     db.collection('bims', function(er, collection) {
-      collection.find({loc: {$near: [req.param('llat'),req.param('llong')], $maxDistance: 500}}).toArray(function(err,data) { 
+      collection.find({loc: {$near: [req.param('llat'),req.param('llong')], $maxDistance: 600}}).toArray(function(err,data) { 
             res.json(data); 
       }); 
     });
