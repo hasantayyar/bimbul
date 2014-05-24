@@ -31,7 +31,16 @@ app.configure('development', function(){
   app.use(express.errorHandler());
 });
 
-app.get('/', routes.index);
+app.get('/', function(req,res){
+
+   mongo.Db.connect(mongoUri, function (err, db) {
+   db.collection('bims', function(er, collection) {
+       collection.findOne({"city": "Ankara"},function(err,data) {
+           res.render('bim', data);
+       });
+     });
+
+});
 
 
 http.createServer(app).listen(app.get('port'), function(){
