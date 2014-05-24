@@ -36,7 +36,7 @@ app.get('/', function(req,res){
    mongo.Db.connect(mongoUri, function (err, db) {
    db.collection('bims', function(er, collection) {
        collection.findOne({"city": "Ankara"},function(err,data) {
-           res.render('index', data);
+           console.log(data);res.render('index', data);
        });
      });
    });
