@@ -32,14 +32,7 @@ app.configure('development', function(){
 });
 
 app.get('/', function(req,res){
-
-   mongo.Db.connect(mongoUri, function (err, db) {
-   db.collection('bims', function(er, collection) {
-       collection.findOne({"city": "Ankara"},function(err,data) {
-           console.log(data);res.render('index', data);
-       });
-     });
-   });
+     res.render('index');
 });
 
 app.post('/near',function(req,res){
