@@ -1,0 +1,284 @@
+{
+  "ilceler": [
+    {
+      "ilid": 1,
+      "ilceid": 1219,
+      "ilceadi": "Ceyhan"
+    },
+    {
+      "ilid": 1,
+      "ilceid": 2068,
+      "ilceadi": null
+    },
+    {
+      "ilid": 1,
+      "ilceid": 1806,
+      "ilceadi": "İmamoğlu"
+    },
+    {
+      "ilid": 1,
+      "ilceid": 1443,
+      "ilceadi": "Karataş"
+    },
+    {
+      "ilid": 1,
+      "ilceid": 1486,
+      "ilceadi": "Kozan"
+    },
+    {
+      "ilid": 1,
+      "ilceid": 1580,
+      "ilceadi": "Pozantı"
+    },
+    {
+      "ilid": 1,
+      "ilceid": 1104,
+      "ilceadi": "Seyhan"
+    },
+    {
+      "ilid": 1,
+      "ilceid": 1734,
+      "ilceadi": "Yumurtalık"
+    },
+    {
+      "ilid": 1,
+      "ilceid": 1748,
+      "ilceadi": "Y&#252;reğir"
+    },
+    {
+      "ilid": 2,
+      "ilceid": 1182,
+      "ilceadi": "Besni"
+    },
+    {
+      "ilid": 2,
+      "ilceid": 1354,
+      "ilceadi": "G&#246;lbaşı"
+    },
+    {
+      "ilid": 2,
+      "ilceid": 1425,
+      "ilceadi": "Kahta"
+    },
+    {
+      "ilid": 2,
+      "ilceid": 1105,
+      "ilceadi": "Merkez"
+    },
+    {
+      "ilid": 3,
+      "ilceid": 1239,
+      "ilceadi": "Bolvadin"
+    },
+    {
+      "ilid": 3,
+      "ilceid": 1239,
+      "ilceadi": null
+    },
+    {
+      "ilid": 3,
+      "ilceid": 1281,
+      "ilceadi": "Dinar"
+    },
+    {
+      "ilid": 3,
+      "ilceid": 1306,
+      "ilceadi": "Emirdağ"
+    },
+    {
+      "ilid": 3,
+      "ilceid": 1809,
+      "ilceadi": "İscehisar"
+    },
+    {
+      "ilid": 3,
+      "ilceid": 1108,
+      "ilceadi": "Merkez"
+    },
+    {
+      "ilid": 3,
+      "ilceid": 1594,
+      "ilceadi": "Sandıklı"
+    },
+    {
+      "ilid": 4,
+      "ilceid": 1287,
+      "ilceadi": "Doğubayazıt"
+    },
+    {
+      "ilid": 4,
+      "ilceid": 1301,
+      "ilceadi": "Eleşkirt"
+    },
+    {
+      "ilid": 4,
+      "ilceid": 1111,
+      "ilceadi": "Merkez"
+    },
+    {
+      "ilid": 4,
+      "ilceid": 1568,
+      "ilceadi": "Patnos"
+    },
+    {
+      "ilid": 4,
+      "ilceid": 1691,
+      "ilceadi": "Tutak"
+    },
+    {
+      "ilid": 68,
+      "ilceid": 1860,
+      "ilceadi": "Ağa&#231;&#246;ren"
+    },
+    {
+      "ilid": 68,
+      "ilceid": 1921,
+      "ilceadi": "Eskil"
+    },
+    {
+      "ilid": 68,
+      "ilceid": 1932,
+      "ilceadi": "G&#252;lağa&#231;"
+    },
+    {
+      "ilid": 68,
+      "ilceid": 1120,
+      "ilceadi": "Merkez"
+    },
+    {
+      "ilid": 68,
+      "ilceid": 1557,
+      "ilceadi": "Ortak&#246;y"
+    },
+    {
+      "ilid": 5,
+      "ilceid": 1368,
+      "ilceadi": "G&#252;m&#252;şhacık&#246;y"
+    },
+    {
+      "ilid": 5,
+      "ilceid": 1134,
+      "ilceadi": "Merkez"
+    },
+    {
+      "ilid": 5,
+      "ilceid": 1524,
+      "ilceadi": "Merzifon"
+    },
+    {
+      "ilid": 5,
+      "ilceid": 1641,
+      "ilceadi": "Suluova"
+    },
+    {
+      "ilid": 5,
+      "ilceid": 1668,
+      "ilceadi": "Taşova"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1872,
+      "ilceadi": "Akyurt"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1130,
+      "ilceadi": "Altındağ"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1157,
+      "ilceadi": "Ayaş"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1187,
+      "ilceadi": "Beypazarı"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1231,
+      "ilceadi": null
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1260,
+      "ilceadi": null
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1302,
+      "ilceadi": "Elmadağ"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1922,
+      "ilceadi": "Etimesgut"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1744,
+      "ilceadi": "G&#246;lbaşı"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1387,
+      "ilceadi": "Haymana"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1427,
+      "ilceadi": "Kalecik"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1815,
+      "ilceadi": "Kazan"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1745,
+      "ilceadi": "Ke&#231;i&#246;ren"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1473,
+      "ilceadi": "Kızılcahamam"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1746,
+      "ilceadi": "Mamak"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1539,
+      "ilceadi": "Nallıhan"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1578,
+      "ilceadi": "Polatlı"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 2043,
+      "ilceadi": "Pursaklar"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1747,
+      "ilceadi": "Sincan"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1658,
+      "ilceadi": "Şerefliko&#231;hisar"
+    },
+    {
+      "ilid": 6,
+      "ilceid": 1723,
+      "ilceadi": "Yenimahalle"
+    }
+  ]
+}
