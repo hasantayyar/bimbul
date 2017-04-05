@@ -6,8 +6,8 @@
     "start": "node app"
   },
   "dependencies": {
-    "mongodb" : "1.x",
-    "express": "3.1.0",
+    "mongodb" : "^2.2.25",
+    "express": "4.15.2",
     "ejs": "*"
   }
 }
