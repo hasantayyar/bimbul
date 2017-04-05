@@ -6,3 +6,5 @@ En yakın Bim nerede? Her an zorda kalabilir kilo ile toblerone almak için bir 
 
     npm install
     foreman start 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/hasantayyar/bimbul.svg)](https://greenkeeper.io/)
